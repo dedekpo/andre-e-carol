@@ -1,6 +1,7 @@
 import { Box, Button, Flex, Img, Text } from "@chakra-ui/react";
 import Lottie from "react-lottie";
 import moment from "moment";
+import "moment-duration-format";
 import type { NextPage } from "next";
 import Head from "next/head";
 import { useEffect, useState } from "react";
@@ -111,7 +112,7 @@ function CountDown() {
 		let secTimer = setInterval(() => {
 			var starts = moment("2020-09-25 12:53:12");
 			var ends = moment();
-			var duration = moment.duration(ends.diff(starts));
+			var duration = moment.duration(ends.diff(starts)) as any;
 			setTimeDiff(duration._data);
 		}, 1000);
 
