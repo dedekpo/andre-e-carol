@@ -88,7 +88,7 @@ function Images({ image }: any) {
 					width={"100%"}
 				/>
 			</Flex>
-			<Flex w="100vw" mb={10}>
+			<Flex w="100vw" h="full" mb={10}>
 				<Img
 					src={image}
 					h="full"
