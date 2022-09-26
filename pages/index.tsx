@@ -80,8 +80,8 @@ function Images({ image }: any) {
 	};
 
 	return (
-		<Box pos="relative" h="full">
-			<Flex left={{ base: "auto", md: "33%" }} pos="absolute">
+		<Box pos="relative">
+			<Flex left={{ base: "auto", md: "33%" }} h="full" pos="absolute">
 				<Lottie
 					options={defaultOptions}
 					isClickToPauseDisabled
@@ -89,7 +89,7 @@ function Images({ image }: any) {
 					width={"100%"}
 				/>
 			</Flex>
-			<Flex w="100vw" h="full" mb={10}>
+			<Flex w="100vw">
 				<Img
 					src={image}
 					h="full"
