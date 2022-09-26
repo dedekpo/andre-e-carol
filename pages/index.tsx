@@ -50,21 +50,21 @@ const Home: NextPage = () => {
 					&emsp;De todas as mulheres que eu conheci nesse mundo você é
 					a mais maravilhosa, especial e perfeita. Suas
 					características, seu jeitinho, sua delicadeza me encantam
-					sempre que olho pra você, ouço sua voz ou simplesmente penso
-					em você. Doce como mel e fofa como um algodão, você me tira
-					do sério, me levando a lugares que nem imaginava alcançar, a
-					um nível de paixão que excede as expectativas. Te amo com
-					todo o meu coração, e quero te amar cada vez mais, como
-					Cristo amou a Igreja e se entregou por ela. Com você eu
-					consigo entender esse tipo de amor, e almejar aperfeiçoa-lo
-					a ponto de ser perfeito da mesma forma. Que esse site fique
-					no ar por muito e muito tempo, a cada segundo aumentando o
-					nosso amor. E que a gente volte aqui quando tiver 3, 5, 10,
-					50, 70 anos, e perceba que a cada ano que passa o nome amor,
-					de fato, aumenta.
+					sempre que olho para você, ouço sua voz ou simplesmente
+					penso em você. Doce como mel e fofa como um algodão, você me
+					tira do sério, me levando a lugares que nem imaginava
+					alcançar, a um nível de paixão que excede as expectativas.
+					Te amo com todo o meu coração, e quero te amar cada vez
+					mais, como Cristo amou a Igreja e se entregou por ela. Com
+					você eu consigo entender esse tipo de amor, e almejar
+					aperfeiçoá-lo a ponto de ser perfeito da mesma forma. Que
+					esse site fique no ar por muito e muito tempo, a cada
+					segundo aumentando o nosso amor. E que a gente volte aqui
+					quando tiver 3, 5, 10, 50, 70 anos, e perceba que a cada ano
+					que passa o nome amor, de fato, aumenta.
 				</Text>
 				<Text color="gray.500" textAlign="center" mt="10px">
-					Te amo minha linda. Pra sempre minha pricesa. ❤️
+					Te amo minha linda. Para sempre minha princesa. ❤️
 				</Text>
 			</Box>
 		</Box>
