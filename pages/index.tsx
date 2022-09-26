@@ -9,7 +9,7 @@ import animationData from "../public/love.json";
 
 const Home: NextPage = () => {
 	const [imageIndex, setImageIndex] = useState(0);
-	const images = ["/1.jpg", "/2.jpeg", "/3.jpeg"];
+	const images = ["/1.webp", "/2.webp", "/3.webp"];
 	const [secret, setSecret] = useState(0);
 
 	return (
@@ -42,7 +42,7 @@ const Home: NextPage = () => {
 					❤️
 				</Button>
 			</Flex>
-			<Box p={5} display={secret >= 30 ? "inherit" : "none"}>
+			<Box p={5} display={secret >= 10 ? "inherit" : "none"}>
 				<Text textAlign="center" color="gray.500" mb="10px">
 					❤️ Você descobriu um segredo! ❤️
 				</Text>
