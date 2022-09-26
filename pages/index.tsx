@@ -1,7 +1,6 @@
 import { Box, Button, Flex, Img, Text } from "@chakra-ui/react";
 import Lottie from "react-lottie";
 import moment from "moment";
-import "moment-duration-format";
 import type { NextPage } from "next";
 import Head from "next/head";
 import { useEffect, useState } from "react";
