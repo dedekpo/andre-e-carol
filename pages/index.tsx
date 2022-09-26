@@ -88,8 +88,14 @@ function Images({ image }: any) {
 					width={"100%"}
 				/>
 			</Flex>
-			<Flex justify="center" align="center" w="100vw" h="70vh" mb={10}>
-				<Img src={image} h="full" mt="30px" />
+			<Flex w="100vw" mb={10}>
+				<Img
+					src={image}
+					h="full"
+					w={{ base: "90%", md: "25%" }}
+					mx="auto"
+					mt="30px"
+				/>
 			</Flex>
 		</Box>
 	);
