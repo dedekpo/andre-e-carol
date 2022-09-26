@@ -61,10 +61,11 @@ const Home: NextPage = () => {
 					esse site fique no ar por muito e muito tempo, a cada
 					segundo aumentando o nosso amor. E que a gente volte aqui
 					quando tiver 3, 5, 10, 50, 70 anos, e perceba que a cada ano
-					que passa o nome amor, de fato, aumenta.
+					que passa o nosso amor, de fato, aumenta.
 				</Text>
 				<Text color="gray.500" textAlign="center" mt="10px">
-					Te amo minha linda. Para sempre minha princesa. ❤️
+					Te amo minha linda. <br />
+					Para sempre minha princesa. ❤️
 				</Text>
 			</Box>
 		</Box>
